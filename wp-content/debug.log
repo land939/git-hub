@@ -1,0 +1,2 @@
+[14-Jul-2026 14:53:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'wp_user'@'172.18.0.3' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 1988
+[14-Jul-2026 14:53:21 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1045): Access denied for user 'wp_user'@'172.18.0.3' (using password: YES) in /var/www/html/wp-includes/class-wpdb.php on line 1988
