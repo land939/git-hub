@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="05460608-94f3-4da4-902c-7d0de287b56c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ecaf1bfd-86cf-4445-b6f6-f9f1600845d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="3GXFoA4z2zJr5n0tieOTgeDCSbg" />
+  <component name="ProjectId" id="3GXDBhLb0W2siI0zvZyj2kXNtf8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,11 +42,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05460608-94f3-4da4-902c-7d0de287b56c" name="Changes" comment="" />
-      <created>1784110180100</created>
+      <changelist id="ecaf1bfd-86cf-4445-b6f6-f9f1600845d3" name="Changes" comment="" />
+      <created>1784108888015</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1784110180100</updated>
+      <updated>1784108888015</updated>
     </task>
     <servers />
   </component>
